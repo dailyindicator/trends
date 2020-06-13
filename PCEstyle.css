@@ -1,0 +1,21 @@
+  
+h1.title {
+  text-align: center;
+  font-size: 12pt;
+  color: red;
+}
+
+.subtitle {
+  font-size: 12pt;
+  text-align: center;
+}
+
+caption {
+text-align: center;
+}
+
+.footnote {
+  font-size: 9pt;
+  text-align: center;
+}
+
